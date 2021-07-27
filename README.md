@@ -1,16 +1,14 @@
-### Hi there 👋
-
+👋 Bonjour, I'm Harshit Prajapati 👋
 <!--
 **harshit-prajapati/harshit-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Here are some ideas to get you started: -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m not working currently. 
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on ReactJS projects.
+<!-- - 🤔 I’m looking for help with  -->
+- 💬 Ask me about Web and I'll fill you up.⛽️
+- 📫 How to reach me: mailto: prajapati.harshit.73@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I dream about ridind JS engine.🧑‍💻
