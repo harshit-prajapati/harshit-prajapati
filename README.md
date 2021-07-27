@@ -3,13 +3,14 @@
 **harshit-prajapati/harshit-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started: -->
+## I'm a 2nd Year CSE Undergrad and Web Developer.
 
-- 🔭 I’m not working currently. 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on ReactJS projects.
 - 🎯 Goal 2021 : 5 MERN stack projects.
 - 💬 Ask me about Web and I'll fill you up.⛽️
 - ⚡ Fun fact: I dream about riding JS engine.🧑‍💻
+- ⏳ Timepass : Exploring EJS and TypeScript
 
 ### Languages and Tools:
 
