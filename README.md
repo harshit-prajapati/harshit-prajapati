@@ -11,4 +11,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Web and I'll fill you up.⛽️
 - 📫 How to reach me: mailto: prajapati.harshit.73@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I dream about ridind JS engine.🧑‍💻
+- ⚡ Fun fact: I dream about riding JS engine.🧑‍💻
