@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on ReactJS projects.
-- 🎯 Goal 2021 : 5 MERN stack projects.
+- 🎯 Goal 2021 : 5 major MERN stack projects.
 - 💬 Ask me about Web and I'll fill you up.⛽️
 - ⚡ Fun fact: I dream about riding JS engine.🧑‍💻
 - ⏳ Timepass : Exploring EJS and TypeScript
