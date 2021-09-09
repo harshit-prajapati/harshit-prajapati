@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🎯 Goal 2021 : 5 major MERN stack projects.
 - 💬 Ask me about Web and I'll fill you up.⛽️
 - ⚡ Fun fact: I dream about riding JS engine.🧑‍💻
-- ⏳ Timepass : Exploring EJS and TypeScript
+- ⏳ Timepass : Exploring ES6 and TypeScript
 
 ### Languages and Tools:
 
