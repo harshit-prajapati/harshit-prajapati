@@ -3,7 +3,7 @@
 **harshit-prajapati/harshit-prajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started: -->
-## I'm a 3nd Year CSE Undergrad and Web Developer.
+## I'm a 4th Year CSE Undergrad and Web Developer.
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on ReactJS projects.
